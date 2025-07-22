@@ -10,5 +10,5 @@ class Car extends Inheritance {
     }
 }
 class Vehicle {
-    
+
 }
