@@ -1,10 +1,10 @@
 public class ArraySum {
     public static void main(String[] args) {
-        int[] a = {0, 1, 2};
+        int[] arr = {10, 20 , 30, 40};
         int sum = 0;
-        for ( int i = 0; i < a.length; i++) {
-            sum = sum + a[i];
+        for (int num : arr) {
+            sum += num;
         }
-        System.out.println(sum);
+        System.out.println("Sum = " + sum);
     }
 }
