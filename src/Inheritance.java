@@ -9,3 +9,6 @@ class Car extends Inheritance {
         System.out.println(myCar.brand + " " + myCar.modelName);
     }
 }
+class Vehicle {
+    
+}
