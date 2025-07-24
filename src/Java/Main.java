@@ -1,4 +1,4 @@
-package JavaProgram;
+package Java;
 
 public class Main {
 }
